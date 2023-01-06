@@ -483,3 +483,13 @@ We also have a class called `Car` that implements the `IVehicle` interface. This
 The `Car` class has a constructor that takes three arguments (`make`, `model`, and `year`) and assigns them to the corresponding properties. It also provides an implementation for the three methods defined in the `IVehicle` interface.
 
 ---
+
+#### Contributions
+We actively encourage people to contribute by adding to this template to make it better!
+
+
+#### Authors
+The following authors have committed 20 lines or more (ordered according to the Github contributors page):
+
+- Gm3
+- ChatGPT
